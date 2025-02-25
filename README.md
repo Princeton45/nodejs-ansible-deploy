@@ -94,7 +94,7 @@ I created an Ansible playbook that:
 
 After running the playbook, the application was successfully deployed and running
 
-![ps-aux](https://github.com/Princeton45/nodejs-ansible-deploy/blob/main/images/ps-aux.png)
+![ps-aux](https://github.com/Princeton45/nodejs-ansible-deploy/blob/main/images/px-aux.png)
 
 ![ansible-playbook](https://github.com/Princeton45/nodejs-ansible-deploy/blob/main/images/ansible-playbook.png)
 
